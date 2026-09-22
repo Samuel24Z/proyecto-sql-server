@@ -1,6 +1,6 @@
 # Guía técnica de SQL Server
 Los temas relacionados a SQL Server se pueden visitar uno por uno en el siguiente listado.
-
+- [Creación, eliminación y borrado de una base de datos](/Creacion_borrado_baseDatos.sql)
 - [Tipos de datos](/contenidos/Tipos_de_datos.sql)
 - [Creación de tablas](/contenidos/Creacion_tabla.sql)
 - [Insertar registros en tablas](/contenidos/Insertar_registros_en_tablas.sql)
