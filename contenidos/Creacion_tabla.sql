@@ -1,3 +1,5 @@
+use Tienda; -- Si tenemos varias BD podemos elegir una con la instrucción use y en ella comenzar a crear tablas, insertar registros, etc.
+
 create table Empleados( -- Instrucción para crear una tabla para empleados
 idEmpleado int, -- Identificador para cada empleado
 nombre varchar(20), -- Campo nombre de tipo varchar, este tipo es para valores alfanuméricos, este campo solo acepta 20 caracteres
